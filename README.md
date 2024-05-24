@@ -1,2 +1,2 @@
 # lmgames.github.io
-This is for my Android apps.
+Info for Google bots.
